@@ -31,7 +31,7 @@ with open('data.txt'.'r') as f1:
 print("number of words in the file = {}".format(num_words))
 ```
 ### OUTPUT:
-![](word.png)
+![](count.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
