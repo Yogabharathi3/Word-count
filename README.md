@@ -32,6 +32,6 @@ print("number of words in the file = {}".format(num_words))
 ```
 ### OUTPUT:
 ![](count.png)
-
+![](word.png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
